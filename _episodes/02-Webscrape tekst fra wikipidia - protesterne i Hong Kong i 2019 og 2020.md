@@ -1,3 +1,17 @@
+---
+title: "Introduction"
+teaching: 0
+exercises: 0
+questions:
+- "Key question (FIXME NOW!!!)"
+objectives:
+- "First learning objective. (FIXME)"
+keypoints:
+- "First key point. Brief Answer to questions. (FIXME)"
+---
+
+
+
 Da borgerne i Hong Kong i 2019 og 2020 gik på gaden i tusindvis i protest mod et nyt lovforslag om udlevering af kriminelle, opstod efterfølgende nogle af de mest langvarige og største demostrationer, der er set i verdenshistorien.
 
 Mediernes repotager om massedemonstrationer, politibrutalitet, gadekampe og demonstrater, der kastede sig ud i kampen for frihedsværdier gjorde stort indtryk på alle.
@@ -674,3 +688,6 @@ print (df.at[52, 'Text'][0:1000])
 Notebooken slutter her, hvor tekstdata er indsamlet, og jeg overvejer de fremtidige perspektiver for undersøgelsen.
 
 Eftersom jeg har indsamlet data fra 54 forskellige sprog, som jeg ikke forstår, skal der gøres noget. Jeg ville have svært ved at analysere teksterne computationelt på deres orginalsprog. Derfor overvejer jeg at oversætte et udvalg af dem til engelsk vha. google translate. På den måde ville jeg få en mulighed for at få indblik i sidernes indhold.
+
+
+{% include links.md %}
